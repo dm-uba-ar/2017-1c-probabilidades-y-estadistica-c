@@ -1,8 +1,4 @@
-# Probabilidad y Estadística (Computación) — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** 17hs a 19hs
+# Probabilidades y Estadística C — Primer cuatrimestre de 2017
 
 ## Prácticas
 
